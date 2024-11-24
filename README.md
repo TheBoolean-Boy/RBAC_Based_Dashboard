@@ -30,7 +30,7 @@ I developed a simple and easy to use RBAC based UI as a solution to my VRV Secur
 
 To run this project, you will need to add the following environment variables to your .env file
 
- **DATABASE_URL** : Signup for any postgresql based db like Neon or Supabase. Connect your db to your prisma schema using connection string provided the the db you created. Assign the string value to this variable.
+ **DATABASE_URL** : Signup for any postgresql based db like Neon or Supabase or local postgresql. Connect your db to your prisma schema using connection string provided the the db you created. Assign the string value to this variable.
 
 
 
